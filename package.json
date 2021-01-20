@@ -1,5 +1,5 @@
 {
-  "name": "typescript-project-generator",
+  "name": "@agungkes/typescript-project-generator",
   "version": "2.6.0",
   "description": "A TypeScript initial configuration for web projects",
   "main": "./lib/index.js",
@@ -20,7 +20,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnthonyLzq/typescript-project-generator.git"
+    "url": "git@github.com:Agungkes/typescript-project-generator.git"
   },
   "keywords": [
     "TypeScript",
