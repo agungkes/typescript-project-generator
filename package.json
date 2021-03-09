@@ -1,6 +1,6 @@
 {
   "name": "@agungkes/typescript-project-generator",
-  "version": "2.6.11",
+  "version": "2.6.12",
   "description": "A TypeScript initial configuration for web projects",
   "main": "./lib/index.js",
   "scripts": {
